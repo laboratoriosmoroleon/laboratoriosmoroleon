@@ -1,0 +1,40 @@
+#info {
+	background: #0500C0; 
+	color: #F7CE09;
+	text-align: center;
+	padding: 20px;
+}
+
+#info .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.info-promociones {
+	margin: 20px;
+}
+
+.info-promociones img{
+	width: 250px;
+	height: 250px;
+ 	border-radius: 50%;
+ 	border: 7px solid #fff;
+ 	margin-top: 50px; 
+}
+
+#info h4 {
+	color:#30F207;
+	font-size: 28px;
+	margin-top: 20px;
+}
+
+#info h3 {
+	margin-top: 20px; 
+	font-size: 28px;
+}
+
+#info p {
+	margin-top: 50px; 
+	font-size: 28px;
+}

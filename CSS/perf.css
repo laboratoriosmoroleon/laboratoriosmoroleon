@@ -1,0 +1,57 @@
+#perf {
+	background: #0500C0;
+	color: #F7CE09;
+	text-align: center;
+	padding: 28px;
+	padding-top: 10px;
+}
+
+#perf .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	text-align: justify-all;
+	
+}
+
+#perf-perfiles p {
+	margin-top:20px;
+}
+
+.perf-perfiles img {
+	width: 290px;
+	height: 252px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 7px solid #fff;
+}	
+
+#perf h4 {
+	font-family: 'Train One', cursive;
+	margin-top: 1.5%;
+	font-size: 29.4px;
+	color: #fff;
+}
+
+#perf p, #perf-perfiles p {
+	text-align: justify-all;
+	font-size: 29px;
+	position: justify;
+	transform: translateX(0%);
+	margin: 12.5px;
+	padding: 1.5px;
+	width: 97%;
+	color: #fff;
+	font-family: 'Teko', sans-serif;
+}
+
+#perf h3 {
+	margin: 29.4px;
+	font-size: 42px;
+	color: #fff;
+	font-family: 'Train One', cursive;
+}
+
+

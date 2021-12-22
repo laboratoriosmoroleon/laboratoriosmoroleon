@@ -1,0 +1,59 @@
+#Bienvenidos {
+	background: #0500C0;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 60px;
+}
+
+#Bienvenidos .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 103.4%;
+	text-align: center;
+}
+
+.Bienvenidos-bienvenidos {
+	margin: 35px;
+}
+
+.Bienvenidos-bienvenidos img {
+	width: 189px;
+	height: 176px;
+	display: block;
+	margin: auto;
+	border-radius: 15%;
+	border: 4.2px solid #fff;
+
+}
+
+#Bienvenidos h4 {
+	font-family: 'Train One', cursive;
+	font-size: 55px;
+	color: white;
+}
+
+#Bienvenidos h2 {
+	font-family: 'Train One', cursive;
+	font-size: 30px;
+	text-align: center;
+	margin: 50px;
+}
+
+#Bienvenidos h3 {
+	font-family: 'Train One', cursive;
+	display: inline-block;
+	font-size:55px;
+	margin-bottom: 1.8%;
+}
+
+.Bienvenidos-bienvenidos p {
+	font-family: 'Teko', sans-serif;
+	font-size: 29px;
+	text-align: center;
+	margin: auto;
+	transform: translateX(-3.1%);
+	width: 100.1%;
+	padding: 2%;
+	position: center;
+}

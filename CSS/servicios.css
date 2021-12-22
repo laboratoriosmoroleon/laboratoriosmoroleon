@@ -1,0 +1,33 @@
+#servicios h4 {
+	text-align: bottom;
+	font-size: 19px;
+}
+
+#servicios h3 {
+	font-size: 19px;
+	text-align: bottom;
+	margin-top: 12.5px;
+
+}
+
+#servicios .contenedor {
+	display: block;
+	margin: 60px;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: center;
+}
+
+#servicios article {
+	margin-left: 25px;
+	flex-wrap: wrap;
+	display: inline-block;
+}
+
+#servicios img {
+	width: 100%;
+	margin-top: 10px;
+	max-width: 280px;
+	height: 190px;
+	width: 250px;
+}
